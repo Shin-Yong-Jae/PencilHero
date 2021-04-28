@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5e76fffb50eb25499e8c3edb03b2a2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - r2d: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - DamageTxt: {instanceID: 0}
+  - EnemyHpBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
